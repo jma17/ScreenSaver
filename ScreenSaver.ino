@@ -61,44 +61,45 @@ for (int i=0; i<8; i++)
          for (int k=0; k<10000; k++) 
          random(6);
          int k=random(6);
-    { 
-      DrawPx(j+1,i+6,k);
-      DrawPx(j+2,i+6,k);
-      DrawPx(j+3,i+6,k);
-      DrawPx(j+1,i+5,k);
-      DrawPx(j+1,i+4,k);
-      DrawPx(j+2,i+4,k);
-      DrawPx(j+3,i+4,k);  
-      DrawPx(j+3,i+5,k);
+        { 
+          DrawPx(j+1,i+6,k);
+          DrawPx(j+2,i+6,k);
+          DrawPx(j+3,i+6,k);
+          DrawPx(j+1,i+5,k);
+          DrawPx(j+1,i+4,k);
+          DrawPx(j+2,i+4,k);
+          DrawPx(j+3,i+4,k);  
+          DrawPx(j+3,i+5,k);
       
-      DrawPx(j+4,i+6,k);
-      DrawPx(j+4,i+5,k);
-      DrawPx(j+4,i+4,k);
-      DrawPx(j+5,i+4,k);
-      DrawPx(j+6,i+4,k);
-      DrawPx(j+6,i+5,k);
-      DrawPx(j+6,i+6,k);
-      DrawPx(j+5,i+6,k);
-      DrawPx(j+4,i+6,k);
+          DrawPx(j+4,i+6,k);
+          DrawPx(j+4,i+5,k);
+          DrawPx(j+4,i+4,k);
+          DrawPx(j+5,i+4,k);
+          DrawPx(j+6,i+4,k);
+          DrawPx(j+6,i+5,k);
+          DrawPx(j+6,i+6,k);
+          DrawPx(j+5,i+6,k);
+          DrawPx(j+4,i+6,k);
       
-      DrawPx(j+1,i+2,k);
-      DrawPx(j+1,i+1,k);
-      DrawPx(j+2,i+1,k);
-      DrawPx(j+3,i+1,k);
-      DrawPx(j+4,i+1,k);
-      DrawPx(j+5,i+1,k);
-      DrawPx(j+6,i+1,k);
-      DrawPx(j+6,i+2,k);
-      DrawPx(j+5,i+2,k);
-      DrawPx(j+4,i+2,k);
-      DrawPx(j+3,i+2,k);
-      DrawPx(j+2,i+2,k);
+          DrawPx(j+1,i+2,k);
+          DrawPx(j+1,i+1,k);
+          DrawPx(j+2,i+1,k);
+          DrawPx(j+3,i+1,k);
+          DrawPx(j+4,i+1,k);
+          DrawPx(j+5,i+1,k);
+          DrawPx(j+6,i+1,k);
+          DrawPx(j+6,i+2,k);
+          DrawPx(j+5,i+2,k);
+          DrawPx(j+4,i+2,k);
+          DrawPx(j+3,i+2,k);
+          DrawPx(j+2,i+2,k);
       
+        }
+      }
     }
   }
-}
 
-}
+
 
 
 
